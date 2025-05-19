@@ -3,34 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>README - KaffeeZeit</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 900px;
-      margin: 2rem auto;
-      padding: 1rem;
-      background: #f8f4e9;
-      color: #563a1a;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #6b4c28;
-    }
-    a {
-      color: #856a4e;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    pre {
-      background: #d8cdb9;
-      padding: 1rem;
-      overflow-x: auto;
-      border-radius: 5px;
-    }
-  </style>
+
 </head>
 <body>
   <h1>KaffeeZeit</h1>
@@ -55,7 +28,7 @@
   <h2>Installation & Utilisation</h2>
   <p>Pour utiliser le projet :</p>
   <pre>
-git clone https://github.com/ton-utilisateur/kaffeezeit.git
+git clone https://github.com/kahmada/Koffee.git
   </pre>
   <p>Ouvre ensuite le fichier <code>index.html</code> dans ton navigateur.</p>
 
