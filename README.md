@@ -8,7 +8,7 @@
 <body>
   <h1>KaffeeZeit</h1>
   <p>Bienvenue dans le projet <strong>KaffeeZeit</strong>, une pratique pour apprendre le développement front-end avec HTML, CSS et JavaScript.</p>
-  <img src="p" alt="Description of the image" />
+  <img src="p.png" alt="Description of the image" />
 
   <h2>Description</h2>
   <p>Ce site présente un café fictif avec une interface simple, responsive et interactive. Il permet de pratiquer les bases du front-end :</p>
